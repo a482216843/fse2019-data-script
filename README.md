@@ -18,3 +18,4 @@ The folder `select-candidate-committers` contains the data and the C++ script fo
 First, run `gen.cpp` to build the collaboration network of the contributors for each potential subsystem.
 Then, run `main.cpp` to get the list of the candidate committers.
 
+Additionally, we provide the results of thematic analysis in the file **`thematic-analysis-results.pdf`**.
